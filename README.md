@@ -1,10 +1,12 @@
 # Link Peeler Downloads
 
-Automated public desktop artifacts.
+Automated release metadata for Link Peeler desktop builds.
 
-Current desktop version: `2026.326.1059`
+Current desktop version: `2026.326.1407`
 
-Files in this repository root are the latest published builds:
+This branch keeps the latest manifests, checksums, and desktop binaries.
+
+Published files:
 
 - `linkpeeler-darwin-amd64.zip`
 - `latest-darwin-amd64.json`
