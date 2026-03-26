@@ -1,0 +1,3 @@
+3c2482f818643d78bb7209684554e0c396ed92b7135dfbb474d5ab654c2e4caf  linkpeeler-darwin-amd64.zip
+4580b5022c755841626ef58b5485422dbd687720af9ee636c435cbb7ba32b21b  linkpeeler-darwin-arm64.zip
+a7f98e0013bf17d9ab3bc2d1c9e9583958d5bf90442ec2603fe81799c46cbad2  linkpeeler-windows-amd64.zip
