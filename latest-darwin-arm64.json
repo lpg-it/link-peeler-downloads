@@ -1,7 +1,7 @@
 {
-  "version": "2026.506.1000",
+  "version": "2026.506.1005",
   "url": "https://raw.githubusercontent.com/lpg-it/link-peeler-downloads/main/linkpeeler-darwin-arm64.zip",
-  "notes": "Automated release 2026.506.1000",
-  "sha256": "566a98131fd91ab372e6ea29ae4a6f8ed09c8236e6d8616f14982323f77e2980",
+  "notes": "Automated release 2026.506.1005",
+  "sha256": "d009da2a2301000c68feeb4ae464ff2515dd4f1782ffed22a72b466384fa4062",
   "signature": ""
 }
