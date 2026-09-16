@@ -2,7 +2,7 @@
 
 Automated release metadata for Link Peeler desktop builds.
 
-Current desktop version: `2026.908.1118`
+Current desktop version: `2026.916.1308`
 
 This branch keeps the latest manifests, checksums, and desktop binaries.
 
