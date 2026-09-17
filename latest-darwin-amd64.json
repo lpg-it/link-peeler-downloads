@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "channel": "stable",
-  "release_sequence": 2026000917000917,
-  "version": "2026.917.917",
+  "release_sequence": 2026000917000925,
+  "version": "2026.917.925",
   "os": "darwin",
   "arch": "amd64",
   "artifact_name": "linkpeeler-darwin-amd64.zip",
   "artifact_format": "zip",
-  "url": "https://raw.githubusercontent.com/lpg-it/link-peeler-downloads/main/releases/2026.917.917/linkpeeler-darwin-amd64.zip",
-  "sha256": "5616f8c24093b02fe419c397c9f4cdd9853c81a683681631d9d33ea0eda2debb",
-  "size_bytes": 11623363,
-  "published_at": "2026-09-17T09:17:25Z",
-  "notes": "Automated release 2026.917.917",
+  "url": "https://raw.githubusercontent.com/lpg-it/link-peeler-downloads/main/releases/2026.917.925/linkpeeler-darwin-amd64.zip",
+  "sha256": "772d2ae97d8c3cf315b93b9abc45dbf61489800a5b470704430c8adb88d39bcd",
+  "size_bytes": 11623348,
+  "published_at": "2026-09-17T09:25:08Z",
+  "notes": "Automated release 2026.917.925",
   "key_id": "ed25519-a032ca6877fff672dd32d5599fca79ff",
-  "signature": "Dgx4SKLZLKPyXJgxazflny+xLiRf5tDyPOnE+ZDJnC4id5qxUL3dYb+jUSapEp243qbmHgpG7pVNO+hC/pguBQ=="
+  "signature": "brwxDycQtbYWFXyZ0Gv0FrMBrAEe6FtGX8/jhmOZRjCQg4CnQ9EvXnX+akdmhSzsIGf2qfuqJTJaMU1gboI4Bg=="
 }
