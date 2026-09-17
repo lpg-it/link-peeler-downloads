@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "channel": "stable",
-  "release_sequence": 2026000917000853,
-  "version": "2026.917.853",
+  "release_sequence": 2026000917000917,
+  "version": "2026.917.917",
   "os": "windows",
   "arch": "amd64",
   "artifact_name": "linkpeeler-windows-amd64.zip",
   "artifact_format": "zip",
-  "url": "https://raw.githubusercontent.com/lpg-it/link-peeler-downloads/main/releases/2026.917.853/linkpeeler-windows-amd64.zip",
-  "sha256": "ff520dcfbe602449beb7b975a2c1f0006311f0cb974854b835651617cc25d3c7",
-  "size_bytes": 11667966,
-  "published_at": "2026-09-17T08:53:50Z",
-  "notes": "Automated release 2026.917.853",
+  "url": "https://raw.githubusercontent.com/lpg-it/link-peeler-downloads/main/releases/2026.917.917/linkpeeler-windows-amd64.zip",
+  "sha256": "7fca8f90bf4f6d8811167862c74d968296d6dcce06f0c0ff651e2529b2f01ff6",
+  "size_bytes": 11668229,
+  "published_at": "2026-09-17T09:17:25Z",
+  "notes": "Automated release 2026.917.917",
   "key_id": "ed25519-a032ca6877fff672dd32d5599fca79ff",
-  "signature": "G8cv14ljKH6kKSKG6Hc2//z/5L+gCLaDORIY9XbtNiZLwVM9EDu348ryGpb2OysYd5dxIX8NS9+XSS87iNxSAw=="
+  "signature": "FzyYK5QbF6Rb9gqEXwZ+kpCAy1ibPZ48RPoEZSxkdOc9a2KCI/tnYYV1a/8bSHrZhsuCJ1clx/b9jxT0/XMhBQ=="
 }
